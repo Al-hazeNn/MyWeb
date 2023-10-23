@@ -1,0 +1,63 @@
+header{
+    text-align: center;
+    background-color: #370056;
+    color: whitesmoke;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-size: 100px;
+}
+div{
+    margin: 20px;
+}
+aside{
+    background-color: #290081;
+    color: whitesmoke;
+    padding-right: 10px;
+    float: right;
+}
+.contents{
+    font-size: 40px;
+    font-weight: bold;
+}
+.DefiningMatter{
+    font-size: 20px;
+}
+.StatesofMatter{
+    font-size: 20px;
+}
+.PreciousMatter{
+    font-size: 20px;
+}
+.MatternEnergy{
+    font-size: 20px;
+}
+.OtherForms{
+    font-size: 20px;
+}
+.know{
+    font-size: 20px;
+}
+main{
+    background-color: #6d005e;
+    padding: 10px;
+    padding-bottom: 32px;
+    color: white;
+    letter-spacing: 2px;
+    font-family: times;
+    line-height: 50px;
+    
+}
+footer{
+    background-color: black;
+    padding: 50px;
+}
+p{
+   text-align: left;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+h2{
+    font-weight: bold;
+}
